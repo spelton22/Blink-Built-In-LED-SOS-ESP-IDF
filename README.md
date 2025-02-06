@@ -3,4 +3,4 @@ Morse code, each letter is represented by a series of dots (short tones) and das
 tones). You should write a program that replicates this pattern on the LED. For dots, the LED
 should blink at around twice the speed/frequency of dashes.
 In Morse code, the letter “S” is represented by three dots, and the letter “O” is represented by
-three dashes. More about Morse code see the Wikipedia page.
+three dashes. 
